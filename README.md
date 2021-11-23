@@ -3,7 +3,7 @@
 <br>
 <img src="solar_system.gif"> </img>
 <br>
-<a href="https://github.com/Gurupremrajpal/Solar-System/tree/main/Solar%20System"> Download </a>
+<a href="https://solarsystem.gurupremrajpal.repl.co"> Website </a>
 <br>
 <br>
 
