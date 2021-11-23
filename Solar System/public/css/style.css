@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+hr{
+  background-color: white;
+}
+
+a:hover{
+  color: red;
+}
+
+.header{
+  animation: multicolor 7s linear infinite;
+}
+
+@keyframes multicolor{
+  0%{
+    color: rgb(70, 70, 245);
+  }
+  10%{
+    color: rgb(245, 219, 70);
+  }
+  20%{
+    color: rgb(70, 245, 79);
+  }
+  30%{
+    color: rgb(245, 70, 187);
+  }
+  40%{
+    color: rgb(245, 70, 70);
+  }
+  50%{
+    color: rgb(245, 90, 70);
+  }
+  60%{
+    color: rgb(245, 70, 236);
+  }
+  70%{
+    color: rgb(66, 172, 158);
+  }
+  80%{
+    color: rgb(213, 245, 70);
+  }
+  90%{
+    color: rgb(90, 245, 70);
+  }
+  100%{
+    color: rgb(153, 27, 211);
+  }
+}
